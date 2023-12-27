@@ -8,13 +8,13 @@ body {
             margin: 0;
         }
 
-        #bands {
+        #band {
             list-style-type: none;
             padding: 0;
             text-align: center;
         }
 
-        #bands li {
+        #band li {
             font-size: 18px;
             margin: 5px;
         }
